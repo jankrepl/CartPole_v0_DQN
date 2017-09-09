@@ -70,7 +70,7 @@ sequential observations but instead from (ideally) independent ones.
 * https://medium.com/@gtnjuvin/my-journey-into-deep-q-learning-with-keras-and-gym-3e779cc12762
 * https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/
 
-### Official OpenAi baseline
+### Official OpenAI baseline
 * https://github.com/openai/baselines/tree/master/baselines/deepq
 
 
